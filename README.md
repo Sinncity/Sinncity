@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sinncity Im from Denver,CO Moving to florida soon and im 36 years 
+- 👋 Hi, I’m @Sinncity from Denver,CO Moving to florida soon and im 36 years old
 - 👀 I’m interested in Javasript projects and web development and just meeting coo devs with great vibes
 - 🌱 I’m currently learning  Javascript and soon enough react
 - 💞️ I’m looking to collaborate on html CSS and javasript projects
