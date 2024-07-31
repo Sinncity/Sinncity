@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Sinncity from Denver,CO Moving to florida soon
-- im 37 years old 🥳🥳🥳🥳
-- 👀 I’m interested in Javasript projects and web development and just meeting devs with great vibes
+- 👋 Hi, I’m @Sinncity from Denver,CO 
+- im 39 years old 🥳🥳🥳🥳
+- 👀 I’m interested in Javascript projects and web development and just meeting devs with great vibes
 - 🌱 I’m currently learning C# MySQL  and javascript 🙌🙌👌
-- 💞️ I’m looking to collaborate fullstack asp.net javascript projects
+- 💞️ I’m looking to collaborate on full-stack asp.net javascript projects
+- I have pivoted to the cybersecurity field and now do pentesting bug bounties and soc analyst roles
 
 
 <!---
