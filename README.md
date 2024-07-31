@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sinncity from Denver,CO 
+- 👋 Hi, I’m Sinncity from Denver,CO 
 - im 39 years old 🥳🥳🥳🥳
 - 👀 I’m interested in Javascript projects and web development and just meeting devs with great vibes
 - 🌱 I’m currently learning C# MySQL  and javascript 🙌🙌👌
