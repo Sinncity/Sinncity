@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sinncity from Denver,CO 
-- im 39 years old 🥳🥳🥳🥳
+- 👋 Hi, I’m Terrance from Denver,CO 
+- im 41 years old 🥳🥳🥳🥳
 - 👀 I’m interested in Javascript projects and web development and just meeting devs with great vibes
 - 🌱 I’m currently learning C# MySQL  and javascript 🙌🙌👌
 - 💞️ I’m looking to collaborate on full-stack asp.net javascript projects
